@@ -66,8 +66,10 @@ Or view it live here: [**Live Demo**](https://kasiajay553.github.io/Clearx/)
 ![customer](https://github.com/user-attachments/assets/30d14e79-0703-4ccb-815d-a59f13508ea8)
 
 ## Metrics
-Impact | Result
-Food Waste Reduced | 58%
-Customer Savings | 42% avg
-Delivery Speed | 22% faster
-CO₂ Emission Reduction | 8 tons/month
+
+| **Metric**         | **Result**                                                                 |
+|--------------------|--------------------------------------------------------------------------------------|
+| **Food Waste Reduced** | 58%                  |
+| **Customer Savings**       |  42% average                          |
+| **Delivery Speed**     |22% faster                    |
+| **CO₂ Emissions Reduced**        |  8 tons per month                         |
