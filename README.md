@@ -1,5 +1,5 @@
 # ClearX 🌱🛒🚚  
-**India’s Revolutionary Discount Shopping App**  
+**India’s Revolutionary Discount Shopping Application**  
 **License:** MIT | **Built With:** HTML, CSS, JavaScript
 
 ---
